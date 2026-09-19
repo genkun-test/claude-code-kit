@@ -1,0 +1,6 @@
+{
+  "agentPushNotifEnabled": true,
+  "worktree": {
+    "baseRef": "head"
+  }
+}
